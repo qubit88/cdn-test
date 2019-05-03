@@ -1,4 +1,4 @@
-let URL = "https://qubit88.github.io/cdn-test/model.glb";
+let URL = "https://github.com/qubit88/cdn-test/assets/model.glb";
 
 function hideLoader() {
     let loading = document.querySelector(".loading");
